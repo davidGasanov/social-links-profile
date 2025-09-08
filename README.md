@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/imagesscreenshot.png)
+![](./assets/images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/seo-friendly-social-links-profile-z_nt9LGCz7]
+- Live Site URL: [https://davidgasanov.github.io/social-links-profile/]
 
 ## My process
 
